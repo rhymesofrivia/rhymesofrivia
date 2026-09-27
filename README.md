@@ -19,18 +19,10 @@ I'm an **AI & Web Operations** practitioner building modern web applications and
 
 ---
 
-### 💼 Commercial & Client Work
-
-#### 🚀 [Syndice.co](https://syndice.co) *(Own Brand / Venture)*
+### 🚀 Featured Project: [Syndice.co](https://syndice.co)
 - Full-stack e-commerce storefront custom-built with **Next.js 16**, **React 19**, and **TypeScript**.
 - Mobile-first responsive UI with zero external CMS dependencies.
 - Automated content and product copy pipelines powered by custom prompt workflows.
-- *(Private Repository — Proprietary Venture)*
-
-#### 🏭 ES Hidroes Hidrolik & Pnömatik Sistemleri *(Client Project)*
-- Corporate web showcase and digital catalog developed for an industrial hydraulic & pneumatic systems firm.
-- Fully responsive, SEO-optimized web interface highlighting industrial machinery, parts catalog, and direct customer inquiry channels.
-- *(Private Repository — Commercial Client Agreement)*
 
 ---
 
